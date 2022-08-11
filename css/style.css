@@ -13,7 +13,7 @@ body{
 }
 .card-1{
 width: 505px;
-height: 295px;
+height: 288px;
 background-color: #FCEBEB;
 margin: 100px  auto 60px auto;
 position: relative;
@@ -67,7 +67,7 @@ position: relative;
 .btn{
     background-color: #FF1515;
     width: 100%;
-  padding: 10px;
+    padding: 10px;
     border: none;
 }
 a{
@@ -78,7 +78,7 @@ a{
 }
 .card-2{
     width: 505px;
-    height: 295px;
+    height: 288px;
     background-color: #FFFFFF;
     margin: 0px auto;
     border: 1px solid;
@@ -162,7 +162,7 @@ a{
      justify-content: space-between;
     }
     .pieces-batch{
-        margin-left: 29px;
+        margin-left: 29px;  
     }
     .back-code {
         margin-top: 16px;
